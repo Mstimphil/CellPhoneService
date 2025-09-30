@@ -1,5 +1,13 @@
 package com.pluralsight;
 
+
+
 public class CellPhoneApplication {
-    private class cellPhone
+    public class cellPhone
+    private cellPhone;
+
+    public cellPhone()
+        this.name = name;
+
+
 }
