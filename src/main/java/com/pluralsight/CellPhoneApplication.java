@@ -3,11 +3,8 @@ package com.pluralsight;
 
 
 public class CellPhoneApplication {
-    public class cellPhone
-    private cellPhone;
+    public static void main(String[] args) {
 
-    public cellPhone()
-        this.name = name;
-
+    }
 
 }
