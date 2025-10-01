@@ -1,12 +1,12 @@
 package com.pluralsight;
 
 
-public class CellPhone {
-    private int serialNumber;
+public class CellPhone{;
     private String model;
     private String carrier;
     private String phoneNumber;
     private String owner;
+    private int serialNumber;
 
     public CellPhone() {
         this.serialNumber = 0;
@@ -54,6 +54,7 @@ public class CellPhone {
 
     public void setOwner(String owner) {
         this.owner = owner;
+
     }
 }
 
